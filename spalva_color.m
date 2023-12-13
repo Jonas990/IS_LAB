@@ -1,8 +1,8 @@
 function hsv_value=spalva_color(Im)
 % im - vaizdas, nuskaitytas su imread
-% bw - binarinis vaizdas (nurodo sritÃ¡, kurioje yra skaiÃ¨iuojamas 
-% spalvos vidutinÃ« reikÃ°mÃ«)
-% atsakymas hsv_value - spalva HSV skalÃ«je
+% bw - binarinis vaizdas (nurodo sritá, kurioje yra skaièiuojamas 
+% spalvos vidutinë reikðmë)
+% atsakymas hsv_value - spalva HSV skalëje
 % 
 
 % index=bw(bw>0);
